@@ -1,5 +1,4 @@
 .idea/*
-.env
 humhub.env
 humhub-data
 humhub-data-docker
